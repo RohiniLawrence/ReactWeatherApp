@@ -9,6 +9,6 @@ A tiny but awesome react app that uses [OpenWeather](https://openweathermap.org/
 
 ## Tools Used: 
  Developed using:  **Visual Studio**  
- Languages & Libraries : **React, Semantic UI** 
+ Languages & Libraries : **React, [Semantic UI](https://semantic-ui.com/)** 
 
 
