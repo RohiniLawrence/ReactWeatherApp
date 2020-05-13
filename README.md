@@ -8,7 +8,7 @@ A tiny but awesome react app that uses [OpenWeather](https://openweathermap.org/
  * A detailed weather report is shown to the user.
 
 ## Tools Used: 
- Developed using:  **Visual Studio**  
+ Developed using:  **Visual Studio Code**  
  Languages & Libraries : **React, [Semantic UI](https://semantic-ui.com/)** 
 
 
